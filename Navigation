@@ -1,0 +1,11 @@
+
+cd  <Change Dirctory>
+ls. <List>
+.   <Current Dir>
+../ <One directory level up>
+~   <Home directory>
+tree -L 1. <one directory level>
+
+
+
+
